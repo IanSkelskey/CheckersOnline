@@ -3,4 +3,4 @@ An implementation of the classic board game, Checkers. Programmed with Java. Int
 
 ## Contributors 
 - Neil Sands
-= Ian Skelskey
+- Ian Skelskey
